@@ -1,0 +1,4 @@
+telethon
+cryptg
+vk_api
+pyodbc
